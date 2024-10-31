@@ -9,4 +9,6 @@ def lanzar_dados(amount, sides):
     return resultados
 
 lanzar_dados(amount=5, sides=20)
+lanzar_dados(amount=6, sides=6)
+
 
